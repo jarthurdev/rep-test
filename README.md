@@ -1,1 +1,1 @@
-<img src="cachrro">
+<img src="cachrro.gif">
