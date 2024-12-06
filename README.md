@@ -1,1 +1,1 @@
-<img align="right" src="cachrro.gif" width="250" height="250">
+<img src="/teste/cachrro.gif">
